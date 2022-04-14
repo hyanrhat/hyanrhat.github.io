@@ -1,1 +1,77 @@
+/* #red {
+    width: 30%;
+    background-color: red;
+    transition: background-color 0.4s ease-in;
+   }
+
+#red:hover {
+    background-color: orange;
+    transform: skewX(60deg);
+    transform: skewY(60deg);
+   }
+
+#appear {
+    transition: opacity 1s ;
+   }
+
+#appear:hover {
+    opacity: 0;
+   }
+}
+#blue {
+    /* animation-name: mover; */
+    animation-duration: 4s;
+    animation-direction: alternate;
+    /* animation-iteration-count: infinite;
+}
+
+
+.hidden{
+    display: none;
+} */ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
